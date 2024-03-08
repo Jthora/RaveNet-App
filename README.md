@@ -47,9 +47,10 @@ We value feedback from our users! If you have any suggestions, questions, or iss
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/), which allows you to copy, modify, distribute, and use the software for any purpose, without asking for permission.
 
 ## Acknowledgments
 
 We would like to thank the open-source community for their contributions and support in building RaveNet.
+
 
